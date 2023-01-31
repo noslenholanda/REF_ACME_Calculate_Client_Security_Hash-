@@ -1,8 +1,9 @@
 {
-  "name": "rpa-template",
-  "description": "TesteGit",
+  "name": "REF_ACME_Calculate_Client_Security_Hash",
+  "description": "- Gera o hash de segurança para cada cliente com base em suas\r\ninformações pessoais;",
   "main": "Main.xaml",
   "dependencies": {
+    "RPAToolkit": "[1.1.8]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.System.Activities": "[22.10.3]",
     "UiPath.Testing.Activities": "[22.10.0]",
